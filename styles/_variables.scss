@@ -1,0 +1,28 @@
+@use "functions" as *;
+
+// colors
+$grey-25: #19182b;
+$pale-navy: #36384d;
+$dark-navy: #242742;
+$vermillion: #ff6155;
+$gradient-1: linear-gradient(#ff6a3a, #ff527b);
+$white: #ffffff;
+
+// Typography
+$font-family: "Roboto";
+
+$text-preset-heading-font-family: $font-family;
+$text-preset-heading-d-font-size: rem(56px);
+$text-preset-heading-m-font-size: rem(40px);
+$text-preset-heading-bold-font-weight: 700;
+$text-preset-heading-line-height: 100%;
+$text-preset-heading-letter-spacing: rem(0px);
+
+$text-preset-body-font-family: $font-family;
+$text-preset-body-font-size: rem(16px);
+$text-preset-body-regular-font-weight: 400;
+$text-preset-body-line-height: 150%;
+$text-preset-body-letter-spacing: rem(0px);
+
+$text-preset-body-bold-font-weight: 900;
+$text-preset-body-small-font-size: rem(12px);
