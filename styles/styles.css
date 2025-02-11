@@ -198,6 +198,8 @@ input[type=number]::-webkit-inner-spin-button {
   }
   .container .calculator .inputs {
     flex: 1;
+    margin-top: 0.8125rem;
+    margin-bottom: 1rem;
   }
   .container .calculator .inputs .select-tip .btn-wrapper {
     grid-template-columns: repeat(3, 1fr);
