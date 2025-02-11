@@ -25,12 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./tip-calculator-app.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://olaide-hok.github.io/tip-calculator-app/)
 
 ## My process
 
@@ -45,8 +44,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - This helped me with Javascript programming language. I really liked this resource and will use it going forward.
+- [Working with floating numbers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat) - The parseFloat() function parses a string argument and returns a floating point number.
+- [Google Fonts](https://fonts.google.com/) - This helped me add the Space Mono fonts.
 
 ## Author
 
