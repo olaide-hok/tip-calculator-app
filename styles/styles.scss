@@ -263,6 +263,7 @@ input[type="number"]::-webkit-inner-spin-button {
 @media screen and (min-width: 1440px) {
   .container {
     max-width: rem(920px);
+    max-height: rem(481px);
     margin: rem(163px) auto 0;
     row-gap: rem(87.86px);
     padding-top: 0;
