@@ -218,6 +218,9 @@ input[type=number]::-webkit-inner-spin-button {
     row-gap: 5.49125rem;
     padding-top: 0;
   }
+  .container .calculator {
+    max-height: 30.0625rem;
+  }
   .container .calculator .inputs,
   .container .calculator .tip-result {
     flex: 1;
